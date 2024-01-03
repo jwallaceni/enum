@@ -18,6 +18,8 @@ sudo ./install.sh
 
 Configure Shodan CLI and add Grayhatwarfare and ViewDNS.info API keys to config.ini
 
+Comment out script feedback with '#' if writing results to a file
+
 ## Usage
 
 ### ./whois.sh [domain]
