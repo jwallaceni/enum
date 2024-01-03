@@ -44,7 +44,7 @@ Find all sites hosted on a given server
 
 Find domain names owned by an individual or company
 
-### ./reversednslookup.sh
+### ./reversednslookup.sh [IP address]
 
 View the reverse DNS entry for an IP address
 
