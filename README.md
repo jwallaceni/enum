@@ -62,7 +62,7 @@ Search for open AWS S3 buckets by keyword using the Grayhatwarfare API
 
 ### ./awsiteratebuckets.sh [filename] (optional > [output file])
 
-Search for the AmazonS3 string in the header paramater in a file/list of domains or subdomains
+Search for the AmazonS3 string in the header paramaters in a file/list of domains or subdomains
 
 ### ./hunter.sh "[search term]" (optional > [output file])
 
