@@ -10,7 +10,7 @@
 - Grayhatwarfare API key
 - ViewDNS.info API key
 
-## Installation
+## Installation in Kali
 
 sudo chmod +x install.sh
 
