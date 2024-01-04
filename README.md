@@ -18,7 +18,7 @@ sudo ./install.sh
 
 Configure Shodan CLI and add Grayhatwarfare and ViewDNS.info API keys to config.ini
 
-Mute script feedback by placing '#' before echo statements if writing results to a file
+Mute script feedback by commenting with '#' character if writing results to a file
 
 ## Usage
 
