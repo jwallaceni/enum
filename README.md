@@ -18,6 +18,8 @@ sudo ./install.sh
 
 Configure Shodan CLI and add Grayhatwarfare and ViewDNS.info API keys to config.ini
 
+Note that in other Linux distros Subfinder and Shodan-CLI may have to be installed manually
+
 Mute script feedback by commenting with '#' character if writing results to a file
 
 ## Usage
