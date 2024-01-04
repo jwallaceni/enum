@@ -22,13 +22,13 @@ Comment out script feedback with '#' if writing results to a file
 
 ## Usage
 
-### ./whois.sh [domain]
-
-Perform a whois search on a domain name
-
 ### ./nslookup.sh [IP address]
 
-Perform an nslookup on an IP address
+Perform an nslookup on an domain name
+
+### ./whois.sh [domain]
+
+Perform a whois search on a IP address
 
 ### ./crt.sh [domain] (optional > [output file])
 
