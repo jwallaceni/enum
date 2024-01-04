@@ -26,11 +26,11 @@ Mute script feedback by commenting with '#' character if writing results to a fi
 
 ### ./nslookup.sh [IP address]
 
-Perform an nslookup on an domain name
+Perform an nslookup on a domain name
 
 ### ./whois.sh [domain]
 
-Perform a whois search on a IP address
+Perform a whois search on an IP address
 
 ### ./crt.sh [domain] (optional > [output file])
 
