@@ -20,7 +20,7 @@ Configure Shodan CLI and add Grayhatwarfare and ViewDNS.info API keys to config.
 
 Note that in other Linux distros Subfinder and Shodan CLI may have to be installed manually
 
-Mute script feedback by commenting with '#' character if writing results to a file
+Mute script feedback by commenting with the '#' character if writing results to a file
 
 ## Usage
 
