@@ -32,7 +32,7 @@ Perform an nslookup on an IP address
 
 ### ./crt.sh [domain] (optional > [output file])
 
-Pull domain names from SSL certificates using crt.sh
+Pull domain names from SSL certificates using crt.sh ommitting the wildcard characters (*.)
 
 ### ./initial.sh [filename] [output file]
 
