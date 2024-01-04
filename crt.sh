@@ -1,4 +1,3 @@
-  GNU nano 7.2                                                                crt.sh                                                                         
 #!/bin/bash
 echo ""
 echo "Gathering domain info from crt.sh for $1"
