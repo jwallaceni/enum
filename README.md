@@ -6,6 +6,7 @@
 - Shodan CLI
 - nrich
 - Subfinder
+- dirb
 - jq
 - Grayhatwarfare API key
 - ViewDNS.info API key
