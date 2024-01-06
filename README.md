@@ -48,7 +48,7 @@ Perform an nmap vulnerability scan with version detection in a list/file of targ
 
 ### ./dirb.sh [domain] [output file]
 
-Perform a directory brute force using dirb using the wordlist /usr/share/dirbuster/wordlists/directory-list-lowercase-2.3-small.txt
+Perform a directory brute force with dirb using the wordlist /usr/share/dirbuster/wordlists/directory-list-lowercase-2.3-small.txt
 
 ### ./reverseiplookup.sh [IP address]
 
