@@ -44,7 +44,7 @@ Scan for subdomains in a list of domains using Subfinder
 
 Find all sites hosted on a given server
 
-### ./reversewhois.sh [domain]
+### ./reversewhois.sh [search term]
 
 Find domain names owned by an individual or company
 
