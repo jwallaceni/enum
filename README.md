@@ -40,6 +40,10 @@ Pull domain names from SSL certificates using crt.sh ommitting the wildcard char
 
 Scan for subdomains in a list of domains using Subfinder
 
+### ./dirb.sh [domain] [output file]
+
+Perform a directory brute force using dirb using the wordlist /usr/share/dirbuster/wordlists/directory-list-lowercase-2.3-medium.txt
+
 ### ./reverseiplookup.sh [IP address]
 
 Find all sites hosted on a given server
