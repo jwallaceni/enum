@@ -1,5 +1,7 @@
 #!/bin/bash
 apt install subfinder
+apt install dirb
+apt install nmap
 apt install jq
 apt install python3-pip
 pip install -U --user shodan
