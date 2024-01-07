@@ -54,7 +54,7 @@ Perform a directory brute force with dirb using the wordlist /usr/share/wordlist
 
 Find all sites hosted on a given server
 
-### ./reversewhois.sh [search term]
+### ./reversewhois.sh "[search term]"
 
 Find domain names owned by an individual or company
 
