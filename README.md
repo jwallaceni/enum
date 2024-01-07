@@ -26,11 +26,11 @@ Mute script feedback by commenting with the '#' character if writing results to 
 
 ## Usage
 
-### ./nslookup.sh [IP address]
+### ./nslookup.sh [domain]
 
 Perform an nslookup on a domain name
 
-### ./whois.sh [domain]
+### ./whois.sh [IP address]
 
 Perform a whois search on an IP address
 
