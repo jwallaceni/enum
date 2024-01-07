@@ -44,7 +44,7 @@ Scan for subdomains in a list of domains using Subfinder
 
 ### ./nmap.sh [filename] [output file]
 
-Perform an nmap vulnerability scan with version detection in a list/file of targets and output results to a file
+Perform an nmap vulnerability scan with version detection in a file/list of targets and output results to a file
 
 ### ./dirb.sh [domain] [output file]
 
