@@ -40,7 +40,7 @@ Pull domain names from SSL certificates using crt.sh ommitting the wildcard char
 
 ### ./initial.sh [filename] [output file]
 
-Scan for subdomains in a list of domains using Subfinder
+Scan for subdomains in a list of domains using Subfinder and output results to a file
 
 ### ./nmap.sh [filename] [output file]
 
@@ -48,7 +48,7 @@ Perform an nmap vulnerability scan with version detection in a file/list of targ
 
 ### ./dirb.sh [domain] [output file]
 
-Perform a directory brute force with dirb using the wordlist /usr/share/wordlists/dirb/common.txt
+Perform a directory brute force with dirb using the wordlist /usr/share/wordlists/dirb/common.txt and output results to a file
 
 ### ./reverseiplookup.sh [IP address]
 
