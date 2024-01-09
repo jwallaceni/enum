@@ -1,2 +1,2 @@
 #!/bin/bash
-whatweb $1
+whatweb -v $1
