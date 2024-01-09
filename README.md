@@ -14,6 +14,7 @@
 - jq
 - Grayhatwarfare API key
 - ViewDNS.info API key
+- WPScan API key
 
 ## Installation in Kali
 
@@ -21,7 +22,7 @@ sudo chmod +x install.sh
 
 sudo ./install.sh
 
-Configure Shodan CLI and add Grayhatwarfare and ViewDNS.info API keys to config.ini
+Configure Shodan CLI and add Grayhatwarfare, WPScan and ViewDNS.info API keys to config.ini
 
 Note that in other Linux distros tools such as Subfinder, dirb, nmap and Shodan CLI may have to be installed manually
 
@@ -53,6 +54,14 @@ Perform an nmap vulnerability scan with version detection in a file/list of targ
 
 Perform a directory brute force with dirb using the wordlist /usr/share/wordlists/dirb/common.txt and output results to a file
 
+### ./nikto.sh [domain] (optional > [output file])
+
+Perform a vulnerability scan using nikto
+
+### ./whatweb.sh [domain]
+
+Enumerate what technologies are being used by the defined website/app
+
 ### ./reverseiplookup.sh [IP address]
 
 Find all sites hosted on a given server
@@ -72,6 +81,10 @@ Resolve a list of hostnames from a file/list of domains or subdomains
 ### ./iterateips.sh [filename] (optional > [output file])
 
 Resolve a list of IP addresses from a file/list of domains or subdomains, useful for using with the nrich.sh and shodan.sh scripts
+
+### ./wpscan [domain] (optional > [output file]
+
+Scan Wordpress based websites using WPScan
 
 ### ./awssearchbuckets.sh "[search term]" (optional > [output file])
 
