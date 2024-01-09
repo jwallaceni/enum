@@ -8,6 +8,9 @@
 - Subfinder
 - nmap
 - dirb
+- WPScan
+- nikto
+- whatweb
 - jq
 - Grayhatwarfare API key
 - ViewDNS.info API key
