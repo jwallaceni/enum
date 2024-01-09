@@ -13,10 +13,10 @@ sudo dpkg -i nrich_latest_x86_64.deb
 
 chmod +x crt.sh initial.sh iteratehosts.sh iterateips.sh nrich.sh nslookup.sh awssearchbuckets.sh awsiteratebuckets.sh hunter.sh reversednslookup.sh reverseiplookup.sh reversewhois.sh shodan.sh whois.sh nmap.sh dirb.sh nikto.sh wpscan.sh whatweb.sh
 
-echo "===================================================================================="
-echo "Configure Shodan CLI and add Grayhatwarfare and ViewDNS.info API keys to config.ini"
+echo "==========================================================================================="
+echo "Configure Shodan CLI and add Grayhatwarfare, WPScan and ViewDNS.info API keys to config.ini"
 echo ""
 echo "Shodan CLI docs: https://help.shodan.io/command-line-interface/0-installation"
 echo ""
 echo "Installation complete"
-echo "===================================================================================="
+echo "============================================================================================"
