@@ -82,7 +82,7 @@ Resolve a list of hostnames from a file/list of domains or subdomains
 
 Resolve a list of IP addresses from a file/list of domains or subdomains, useful for using with the nrich.sh and shodan.sh scripts
 
-### ./wpscan [domain] (optional > [output file]
+### ./wpscan [domain]
 
 Scan Wordpress based websites using WPScan
 
